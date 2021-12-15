@@ -1,4 +1,4 @@
 {
   "status": "ok",
-  "message": "This version of the Cate Cloud Service is in development. Expect some bumpiness while testing. Also, due to recently discovered vulnerabilities in the log4j package, the CCI Open Data Portal will not be accessible for some time. We are working hard on fixing this issues and apologise for any inconvenience."
+  "message": "This version of the Cate Cloud Service is in development. Expect some bumpiness while testing."
 }
