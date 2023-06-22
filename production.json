@@ -1,4 +1,16 @@
 {
   "status": "ok",
-  "message": ""
+  "message": "Dear cate users,
+
+the cci toolbox is about to enter its next evolutionary phase.
+It will become the esa-cci-toolbox, a python package that comprises access to cci data and
+offers operations to work on the data. It will be available from conda-forge, github and pypi.
+You can run this package in your custom environment.
+
+This change brings with it that the cate service will be shut down.
+We kindly ask you to backup any work that you have stored on cate's
+cloud storage and do not want to be deleted before the 6th of July 2023.
+
+Thank you for using cate,
+the CCI toolbox team"
 }
